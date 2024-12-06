@@ -22,7 +22,7 @@ docker pull catpop/ps3netsrv-go:latest
 ```
 
 ### Run the Container
-To run the container, specify the directory to serve PS3 games using the `-v` option for volume mounting:
+(for the -v option, :/ps3games cannot be changed, this is the folder referenced within the container)
 ```bash
 docker run -dit \
   --name ps3netsrv-go \
