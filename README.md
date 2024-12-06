@@ -8,6 +8,10 @@ Check out the link below:
 
 [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv)
 
+### Wait, but this uses the go version?
+
+Ye, [xakep666](https://github.com/xakep666/) rewrote the original ps3netsrv in the Go coding language. P cool.
+
 ### Never used docker before?
 
 Check out this link:
