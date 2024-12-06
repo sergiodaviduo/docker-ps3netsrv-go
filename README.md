@@ -42,7 +42,7 @@ docker rm ps3netsrv-go
 ```
 
 ## License
-This project uses the same license as [ps3netsrv-go](https://github.com/xakep666/ps3netsrv-go). Please refer to the original repository for details.
+This project uses the same license as [ps3netsrv-go](https://github.com/xakep666/ps3netsrv-go), the MIT license.
 
 ## Acknowledgments
 Special thanks to [xakep666](https://github.com/xakep666) for developing ps3netsrv-go.
