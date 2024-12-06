@@ -1,6 +1,6 @@
 # PS3NETSRV-GO Docker Image
 
-A simple Docker image to containerize [ps3netsrv-go](https://github.com/xakep666/ps3netsrv-go), a Go-based implementation of [ps3netsrv by aldostools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for streaming PS3 game backups over a network to a modded PS3.
+A simple Docker image to containerize [ps3netsrv-go](https://github.com/xakep666/ps3netsrv-go), a Go-based implementation of [ps3netsrv by aldostools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for streaming PS3 game backups over a network to a modded PS3. This image currently will always grab ps3netsrv-go v0.0.7, and use Go v1.23.3.
 
 ### What is ps3netsrv?
 
