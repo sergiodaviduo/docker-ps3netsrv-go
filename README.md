@@ -2,8 +2,6 @@
 
 A simple Docker image to containerize [ps3netsrv-go](https://github.com/xakep666/ps3netsrv-go), a Go-based implementation of [ps3netsrv by aldostools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for streaming PS3 game backups over a network to a modded PS3.
 
-## Usage
-
 ### What is ps3netsrv?
 
 Check out the link below:
@@ -15,6 +13,11 @@ Check out the link below:
 Check out this link:
 
 [Introduction | Docker Docs](https://docs.docker.com/get-started/introduction/)
+
+
+## Usage
+
+
 
 ### Pull the Image
 ```bash
