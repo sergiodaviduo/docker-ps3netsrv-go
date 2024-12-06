@@ -4,9 +4,15 @@ A simple Docker image to containerize [ps3netsrv-go](https://github.com/xakep666
 
 ## Usage
 
+### What is ps3netsrv?
+
+Check out the link below:
+
+[ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv)
+
 ### Never used docker before?
 
-Check out the below link:
+Check out this link:
 
 [Introduction | Docker Docs](https://docs.docker.com/get-started/introduction/)
 
