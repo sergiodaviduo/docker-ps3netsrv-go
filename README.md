@@ -18,7 +18,7 @@ Check out this link:
 
 ### Pull the Image
 ```bash
-docker pull sduo/ps3netsrv-go:latest
+docker pull catpop/ps3netsrv-go:latest
 ```
 
 ### Run the Container
@@ -28,7 +28,7 @@ docker run -dit \
   --name ps3netsrv-go \
   -p 38008:38008 \
   -v /path/to/your/games:/ps3games \
-  sduo/ps3netsrv-go:latest
+  catpop/ps3netsrv-go:latest
 ```
 
 ### Stopping the Container
